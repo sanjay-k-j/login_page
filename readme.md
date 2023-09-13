@@ -1,8 +1,5 @@
 # Responsive Animated Login Form using HTML and CSS
 
-## Demo
-
-You can see a live demo of this login form [here](#). (Insert a link to your live demo if available)
 
 ## Features
 
